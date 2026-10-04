@@ -5,7 +5,7 @@ Herramienta en Python diseñada para automatizar un flujo operativo completo: la
 ##  Objetivo del Proyecto
 Eliminar por completo la descarga manual de documentos y la captura repetitiva de datos fiscales, automatizando la recuperación de archivos y su posterior transformación en una base de datos tabular estructurada.
 
-## 🧠 Arquitectura y Lógica de Negocio (Mi Contribución Principal)
+## Arquitectura y Lógica de Negocio (Mi Contribución Principal)
 Como Analista Financiero e Ingeniero Matemático, diseñé el requerimiento, la lógica y las reglas de validación implementadas:
 *   **Automatización de Extracción (`webscraping.py`):** Estructuración del proceso de navegación web mediante Selenium y Firefox (Geckodriver), configurando directorios de descarga y control de tiempos de espera por snapshots para asegurar un flujo continuo sin interrupciones[cite: 3].
 *   **Reglas de Filtrado y Negocio (`FACTURAS.py`):** 
@@ -22,5 +22,5 @@ Como Analista Financiero e Ingeniero Matemático, diseñé el requerimiento, la 
 *   **Procesamiento de Datos:** `xml.etree.ElementTree` para parseo de XML, `pandas` para estructuración tabular y `ProcessPoolExecutor` para procesamiento en paralelo[cite: 2, 3].
 *   **Salida:** Automatización de reportes tabulares en Excel (`openpyxl`)[cite: 3].
 
-## 🚀 Valor Operativo
+## Valor Operativo
 Este desarrollo redujo horas de trabajo manual repetitivo a un proceso automatizado de un solo clic, asegurando cero errores humanos en la recolección y permitiendo contar con información fiscal y operativa consolidada de manera inmediata.
