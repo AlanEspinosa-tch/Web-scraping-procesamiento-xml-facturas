@@ -15,7 +15,7 @@ Como Analista Financiero e Ingeniero Matemático, diseñé el requerimiento, la 
 *   **Consolidación Tabular:** Transformación de la estructura anidada de múltiples XMLs en un formato plano y limpio exportado directamente a un archivo Excel (`Reportes_Tesoreria_Final.xlsx`)[cite: 3].
 
 ## Implementación Técnica
-*Nota de transparencia: La definición del proceso operativo, el diseño de las reglas de negocio, los mapeos de estaciones y la lógica de validación de los XML fueron diseñados por mí. Los scripts ejecutables en Python fueron desarrollados con asistencia de Inteligencia Artificial para agilizar la escritura de la sintaxis.*
+*Nota de transparencia: La definición del proceso operativo, el diseño de las reglas de negocio, los mapeos de estaciones y la lógica de validación de los XML y el desarrolo inicial fueron diseñados por mí. Los scripts ejecutables en Python fueron optimizados con asistencia de Inteligencia Artificial para agilizar la escritura de la sintaxis y el correcto funcionamiento.*
 
 *   **Lenguaje:** Python[cite: 2, 3]
 *   **Automatización Web:** Selenium WebDriver (Firefox / Geckodriver)[cite: 3].
